@@ -1,0 +1,26 @@
+{
+  "name": "showtime",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is movie ticket booking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanganeshbutha/ShowTime.git"
+  },
+  "author": "Pavan Ganesh.Butha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavanganeshbutha/ShowTime/issues"
+  },
+  "homepage": "https://github.com/pavanganeshbutha/ShowTime#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
